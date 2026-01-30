@@ -15,6 +15,7 @@
 - Follow a self-made curriculum (languages, DB, system basics)
 - Read other people’s code
 - Read tech content regularly
+- Reffer university notes
 
 ## Professional Habits
 - Use Stack Overflow smartly (read + help)
