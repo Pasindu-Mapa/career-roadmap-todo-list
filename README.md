@@ -8,13 +8,14 @@
 - Contribute to open source projects
 
 ## Problem Solving
-- Practice DSA (HackerRank / LeetCode)
+- Practice DSA (HackerRank / LeetCode / codechef / project Euler(maths))
 - Read Cracking the Coding Interview
 
 ## Learning & Growth
 - Follow a self-made curriculum (languages, DB, system basics)
 - Read other people’s code
 - Read tech content regularly
+- your own blog
 - Reffer university notes
 
 ## Professional Habits
